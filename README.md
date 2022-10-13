@@ -1,4 +1,9 @@
+[![pain.png](https://i.postimg.cc/CKg4SY1J/pain.png)](https://postimg.cc/gxghHC36)
+
+
 Integrantes: ✔️
+-----------------------------------------------------------------------------
+
 • Juan Carlos narvaez <> https://github.com/ProgramadorPegasus
 
 • Emilio Andres Vera <> https://github.com/evera8
